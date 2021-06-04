@@ -52,10 +52,10 @@
   "license": "Apache-2.0",
   "readmeFilename": "README.md",
   "devDependencies": {
-    "grabthar-release": "^1",
     "flow-bin": "0.135.0",
-    "grumbler-scripts": "^3",
-    "flowgen": "1.11.0"
+    "flowgen": "1.11.0",
+    "grabthar-release": "^1.0.65",
+    "grumbler-scripts": "^3"
   },
   "dependencies": {
     "@paypal/card-components": "1.0.48",
